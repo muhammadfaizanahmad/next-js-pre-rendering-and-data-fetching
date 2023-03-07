@@ -1,5 +1,5 @@
 {
-  "name": "next-app",
+  "name": "next-js-pre-rendering-and-data-fetching",
   "version": "0.1.0",
   "private": true,
   "scripts": {
